@@ -154,7 +154,7 @@ python manage.py collectstatic
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
+We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md%20) for details.
 
 ### Development Setup for Contributors
 [Specific setup for contributors]

@@ -1,0 +1,26 @@
+
+## 🤝 Contributing
+
+We welcome contributions from anyone who wants to help improve this project!  
+
+Before submitting a contribution, please follow these guidelines:
+
+1. **Fork the repository** and create your branch:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+2. Make your changes and ensure the code is clean and well-commented.
+
+3. Test your changes locally to make sure nothing breaks.
+
+4. Commit your changes with a clear message:
+    ```bash
+    git commit -m "Add a meaningful commit message"
+    ```
+5. Push your branch to your forked repository:
+    ```bash
+    git push origin feature/your-feature-name
+    ```
+6. Open a Pull Request (PR) in the main repository. Describe your changes clearly and provide any necessary context.
+
+
