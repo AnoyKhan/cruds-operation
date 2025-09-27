@@ -174,7 +174,7 @@ This project is licensed under the [MIT License](LICENSE) - see the LICENSE file
 - **Anoy Khan**: Sole developer of this project.
 
 ### Inspiration Sources
-- This project was inspired by a **3-month internship at CIT**, where I learned and practiced CRUD operations extensively. The guidance and resources provided during that internship were instrumental in building this project.
+- This project was inspired by a **3-month internship at Creative IT Institute | Dhaka**, where I learned and practiced CRUD operations extensively. The guidance and resources provided during that internship were instrumental in building this project.
 
 
 ## 📞 Support & Contact
